@@ -163,8 +163,3 @@ python-dotenv>=1.0.0
 - `.env` is excluded from version control via `.gitignore`
 - No user data is stored or logged by the app
 
----
-
-## 📄 License
-
-MIT License — feel free to use, modify, and distribute.
