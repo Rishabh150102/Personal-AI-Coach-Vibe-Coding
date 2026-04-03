@@ -19,6 +19,8 @@ A Streamlit web app that delivers personalized coaching advice powered by the Op
 
 > Supportive, Direct, Reflective, and Strategic coaches respond to your input with structured advice, reframing, and accountability prompts.
 
+![Preview](/preview.png)
+
 ---
 
 ## 🗂 Project Structure
